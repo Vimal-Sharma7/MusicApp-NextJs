@@ -1,3 +1,3 @@
 MusicApp with NextJs Acertinity UI 
 
-Click here - 
+Live here - ''music-app-nextjs-f.netlify.app''
